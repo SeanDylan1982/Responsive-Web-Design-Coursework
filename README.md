@@ -1,1 +1,3 @@
-# freeCodeCamp.org-New-Responsive-Web-Design---Coursework
+freeCodeCamp.org 
+(New)Responsive Web Design
+Sean Dylan Patterson - Coursework
